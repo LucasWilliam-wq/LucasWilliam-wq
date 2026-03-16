@@ -13,4 +13,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 Como me encontrar:
 
-(https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:lucas-william94@gmail.com) 
+(mailto:lucas-william94@live.com)
+
