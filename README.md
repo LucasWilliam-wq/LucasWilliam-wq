@@ -9,3 +9,6 @@ Tecnologia que estudo atualmente:
  <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img align="center" alt="HTML" height="40" width="40
+
+Como me encontrar:
+(https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:lucas-william94@gmail.com) 
