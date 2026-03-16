@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Olá, eu sou o (Lucas)!
 - Estudante de Desenvolvimento de Sistemas
 - Focado em Python, HTML e CSS
