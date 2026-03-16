@@ -11,7 +11,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
  <img align="center" alt="HTML" height="40" width="40
 
 
-Como me encontrar:
 
-(mailto:lucas-william94@live.com)
 
